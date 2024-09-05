@@ -1,53 +1,53 @@
 ## Tutorial install apps
 
-_ikuti langkah - langkah berikut_
+_follow these steps:_
 
-> 1. Download dan Install Node.js
+> 1. Download and Install Node.js
 > ```
 > - https://jakarta.telkomuniversity.ac.id/cara-mudah-install-node-js-di-windows-dan-tutorial-untuk-pemula/
 > ```
 > ---
-> 2. Download dan Install PostgresSQL
+> 2. Download and Install PostgresSQL
 > ```
 > - https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/
 > ```
 > ---
-> 3. Buat database baru di PostgresSQL dengan nama `petshop`
+> 3. Create a new database in PostgresSQL with the name `petshop`
 > ---
-> 4. git clone project ini
+> 4. git clone this project
 > ```
 > - https://github.com/shorayaau/petshopstation.git
 > ```
 > ---
-> 5. Buka terminal dan arahkan ke folder project `petshop-frontend`
+> 5. Open a terminal and navigate to `petshop-frontend` project folder
 > ---
-> 6. Install package dengan perintah `npm install`
+> 6. Install the package with `npm install` command 
 > ```
 > - npm install
 > ```
 > ---
-> 7. Build project dengan perintah `npm run build`
+> 7. Build the project with `npm run build` command
 > ```
 > - npm run build
 > ```
 > ---
-> 8. Jalan kan project dengan perintah `npm start`
+> 8. Run the project with `npm start` command
 > ```
 > - npm start
 > ```
 > ---
-> 9. Buka terminal dan arahkan ke folder project `petshop_backend`
+> 9. Open the terminal and navigate to `petshop_backend` project folder
 > ---
-> 10. Install package dengan perintah `npm install`
+> 10. Install the package with `npm install` command
 > ```
 > - npm install
 > ```
 > ---
-> 11. Jalankan project dengan perintah `npm start`
+> 11. Run the project with `npm start` command
 > ```
 > - npm start
 > ```
 > ---
 
-**Masih bingung?**
-> - Hubungi saya di [Telegram](https://t.me/shorayaau)
+**Still confused?**
+> - Contact me on [Telegram](https://t.me/shorayaau)
